@@ -29,7 +29,7 @@ learning_outcomes:
   1:
     outcome: "data sharing principles (also: understand what Accessible means in FAIR principles)"
     verbs:
-    - verbs: understanding 
+    - verbs: understanding
       level: beginner      
   2: 
     outcome: "controlled access, registered access, etc"
@@ -136,7 +136,7 @@ terms4FAIRskills:
 Refers to the mechanisms for sharing sentitive or personal data, when it has been properly pseudonymized only after a formal application or approval process. This often involves legal agreements (e.g. Data Sharing Agreements, Data Processing Agreements) 
 
 **Registered Access:** 
-A less resctritive form of controlled access, where users register and agree to specific terms of use, often without individual project-by-project approval but still with a clear record of who is accesing data. An example of this, is request access in a Public Repository like DataverseNL.  
+A less resctritive form of controlled access, where users register and agree to specific terms of use, often without individual project-by-project approval but still with a clear record of who is accesing data. An example of this, is request access in a Public Repository like DataverseNL 
 
 
 In this section aims to provide trainers with the foundational understandings of data accesibility, inspired by the FAIR principles and focusing on Life Sciences Data. 
