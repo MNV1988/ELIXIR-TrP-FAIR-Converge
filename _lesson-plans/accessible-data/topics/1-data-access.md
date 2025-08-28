@@ -141,9 +141,12 @@ A less resctritive form of controlled access, where users register and agree to 
 
 In this section aims to provide trainers with the foundational understandings of data accesibility, inspired by the FAIR principles and focusing on Life Sciences Data. 
 
-* Difference between sensitive and personal data 
+* Data discoverability as the ability for users to find and locate the data they need
+* Data discoverability and its main components: rich and descriptive metadata, search, indexed and searchable repositories and centralized portals
+* Data Usability the degree to which (machines and humans) can read and understand the data
+* Data Quality: the quality of the data which should be clean consistent and free of errors, to be ready for immediate use. 
 * Federated data access (local sources)
-* Relevant legislations, policies, and recommendations
+* Relevant legislations, policies, and recommendations (sensitive, personal data, contracts such as Data Transfer and Processing Agreements)
 
 
 ---
@@ -161,10 +164,10 @@ In this section aims to provide trainers with the foundational understandings of
 
 
 
-* Use case: https://doi.org/10.25504/FAIRsharing.dab53d [https://fairsharing.org/4203](https://fairsharing.org/4203) or any of the other data [dashboards](https://fairsharing.org/search?userDefinedTags=Dashboard) with FAIRsharing, which deals with sensitive data.
+* Use case: One the COVID-19 data registries registered in FAIRsharing.org which which deals with sensitive data. This can be found at: https://fairsharing.org/FAIRsharing.42193d 
 * FAIRsharing’s educational factsheet on databases
 * Exercise:Define types of access modes (tip: use examples from own research field)
-* Exercise: Reviewing case study (FAIRness of it) and how it can be improved
+* Exercise: Review case study (FAIRness of it) and how it can be improved
 * Exercise: Prepare (contribute with) a use case from your institution - collect via GitHub?
 
 
@@ -176,7 +179,8 @@ In this section aims to provide trainers with the foundational understandings of
 
 * Reading material:
     * Registered access: authorizing data access [https://www.nature.com/articles/s41431-018-0219-y](https://www.nature.com/articles/s41431-018-0219-y)
-*   * Publisher's requirement of access: https://www.jlr.org/article/S0022-2275(20)43495-9/fulltext 
+    * Publisher's requirement of access: https://www.jlr.org/article/S0022-2275(20)43495-9/fulltext
+    * Data Accesibility and GDPR requirements: 
 
 
 ---
@@ -185,9 +189,9 @@ In this section aims to provide trainers with the foundational understandings of
 
 
 
-*  …cooperate with data protection officer (EE)
+*  cooperate with data protection officer (EE)
 * 
-* …
+* 
 
 
 ---
@@ -197,7 +201,8 @@ In this section aims to provide trainers with the foundational understandings of
 
 
 * Understanding what principles to consider in a context of sharing sensitive data
-* …
+* 
+  
 
 
 ---
