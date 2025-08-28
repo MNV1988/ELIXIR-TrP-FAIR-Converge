@@ -164,10 +164,11 @@ In this section aims to provide trainers with the foundational understandings of
 
 
 
-* Use case: One the COVID-19 data registries registered in FAIRsharing.org which which deals with sensitive data. This can be found at: https://fairsharing.org/FAIRsharing.42193d 
+* Use case: One the COVID-19 data registries such as the WHO Global Clinical Platform or other in FAIRsharing.org. If you want to add a level of complexity look for data registry that contains personal and or sensitive      data. These examples can be found at: https://fairsharing.org/FAIRsharing.42193d 
 * FAIRsharing’s educational factsheet on databases
-* Exercise:Define types of access modes (tip: use examples from own research field)
-* Exercise: Review case study (FAIRness of it) and how it can be improved
+* Exercise: Define types of access modes (tip: use examples from own research field)
+* Exercise evaluate: A- Discoverability and how easy it was to find the data registry, the meta-data provided; B- Usability look into formats, and conditions of access; C- Quality of the data-set and opportunities for re-   usability and inter-operability.
+* Exercise: Review case study (FAIRness of it) and how it can be improved. 
 * Exercise: Prepare (contribute with) a use case from your institution - collect via GitHub?
 
 
