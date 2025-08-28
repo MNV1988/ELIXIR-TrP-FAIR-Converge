@@ -174,9 +174,9 @@ In this section aims to provide trainers with the foundational understandings of
 
 
 
-* Reading material?
+* Reading material:
     * Registered access: authorizing data access [https://www.nature.com/articles/s41431-018-0219-y](https://www.nature.com/articles/s41431-018-0219-y)
-* 
+*   * Publisher's requirement of access: https://www.jlr.org/article/S0022-2275(20)43495-9/fulltext 
 
 
 ---
