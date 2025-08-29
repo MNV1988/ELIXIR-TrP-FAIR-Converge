@@ -22,7 +22,7 @@ audience:
   - Data controllers and processors
   - Data protection officers
   - Anyone who creates DMPs
-  - Students and researchers (including PIs) in life sciences working on personal and sensitive data 
+  - Students and researchers (including PIs) in life sciences working on personal and sensitive data   
 
 learning_outcomes:
 
@@ -146,7 +146,7 @@ In this section aims to provide trainers with the foundational understandings of
 * Data Usability the degree to which (machines and humans) can read and understand the data
 * Data Quality: the quality of the data which should be clean consistent and free of errors, to be ready for immediate use. 
 * Federated data access (local sources)
-* Relevant legislations, policies, and recommendations (sensitive, personal data, contracts such as Data Transfer and Processing Agreements)
+* Relevant legislations, policies, and recommendations  ( e.g. sensitive, personal data, contracts such as Data Transfer and Processing Agreements)
 
 
 ---
@@ -164,12 +164,12 @@ In this section aims to provide trainers with the foundational understandings of
 
 
 
-* Use case: One the COVID-19 data registries such as the WHO Global Clinical Platform or other in FAIRsharing.org. If you want to add a level of complexity look for data registry that contains personal and or sensitive      data. These examples can be found at: https://fairsharing.org/FAIRsharing.42193d 
+* Use case: Explore the COVID-19 data registries such as the WHO Global Clinical Platform or other in FAIRsharing.org. If you want to add a level of complexity look for data registry that contains personal and or sensitive data. These examples can be found at: https://fairsharing.org/FAIRsharing.42193d 
 * FAIRsharing’s educational factsheet on databases
 * Exercise: Define types of access modes (tip: use examples from own research field)
-* Exercise evaluate: A- Discoverability and how easy it was to find the data registry, the meta-data provided; B- Usability look into formats, and conditions of access; C- Quality of the data-set and opportunities for re-   usability and inter-operability.
-* Exercise: Review case study (FAIRness of it) and how it can be improved. 
-* Exercise: Prepare (contribute with) a use case from your institution - collect via GitHub?
+* Exercise evaluate the following elements: A- The discoverability and how easy it was to find the data registry and the meta-data provided; B- The usability, the formats, and  conditions of access; C- The quality of the data-set and opportunities for re-usability and inter-operability.
+* Exercise: The second part of the exercise is to write a reflexition on the case study (FAIRness of it) and how it can be improved. 
+* Exercise: Finally Prepare (contribute with) a use case from your institution and share its solution with the community via a github page
 
 
 ---
