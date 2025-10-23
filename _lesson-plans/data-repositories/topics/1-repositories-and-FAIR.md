@@ -31,24 +31,24 @@ learning_outcomes:
     level: beginner
   3:Relate how a digital repository uses persistent identifiers (PIs) (such as DOIs or Handles) to guarantee future discoverability and reliable citation, even if the underlying file location changes.
     outcome: repositories aid persistent identifiers for future citations 
-    verb: know
-    level: beginner
+    verb:know
+    level:beginner
   4:Identify the function of the FAIRsharing resource by stating that it catalogs which persistent identifiers are utilized by different digital repositories.
     outcome: FAIRsharing stores information about which persistent identifiers are used by which repository 
-    verb: know
-    level: beginner 
+    verb:know
+    level:beginner 
   5:Critique the implementation of FAIR principles in three chosen examples of trustworthy repositories (e.g., Dryad, Zenodo, or an institutional repository) by judging and reporting on their adherence to the Findable and Reusable criteria.
     outcome: some trustworthy repositories to understand how they implement FAIR 
-    verb:  evaluate 
-    level: intermediate 
+    verb:evaluate 
+    level:intermediate 
   6:Explain the interconnected responsibility of repositories and researchers in fulfilling the FAIR principles and sub-principles by detailing how metadata creation (the researcher's role) supports the Findability and Reusability (the repository's role) criteria.
     outcome: FAIR principles and sub-principle are fulfilled by the repository and what are researchers' responsibility.
-    verb: understand
-    level: beginner
+    verb:understand
+    level:beginner
   7:Describe the purpose and basic function of the F-UJI tool by explaining how it automatically assesses the FAIRness of data objects based on the official FAIR metrics.
-    outcome: data FAIRness using F-UJI
-    verb: understand
-    level: beginner
+    outcome:data FAIRness using F-UJI
+    verb:understand
+    level:beginner
 
 terms4FAIRskills:
   - subject:
