@@ -120,19 +120,13 @@ terms4FAIRskills:
 ## Topic, definition and scope
 
 
+A repository (often shortened to "repo") is essentially a dedicated folder or directory where all the files, folders, and history related to a specific project are stored.
 
-* How do repositories support FAIR?
-* The topic concerns the capacity of digital repositories to ensure the research data findability, accessibility, interoperability and reusability. This content is a summarised version suitable as a recap for those with pre-existing knowledge of data science. 
-* **Data repositories** are key in putting the FAIR principles into practice. They not only enable findability and accessibility but also provide persistent identifiers, documentation, and metadata, thus fostering reusability for humans and machines.
-* A “form” needs to be filled –metadata by default.
-* The form complies with a specific metadata standard.
-* Metadata will then become machine-actionable and searchable in an online resource.
-* A persistent identifier for the data is automatically generated.
-* References to other data or metadata can be included.
-* Authentication and authorization procedures are in place.
-* Access can be regulated from closed to open.
-* The provision of machine-readable licences enhances the reusability of the data.
-* The use of standards and controlled vocabularies is enforced.
+It is the heart of a version control system like Git, serving two main functions:
+
+Storage: It holds the latest, working copy of the project code.
+
+History: It records every single change made to those files over time, acting like a time machine for your project. This allows teams to rewind to any previous state, see who changed what, and collaborate safely.
 * Interfaces for external services like [OAI-PMH](https://www.openarchives.org/pmh/) allow harvesting of metadata for stored records** **
 * **Background:**
     * A number of previous projects and working groups have been discussing what a common set of attributes should be to enable FAIR data, and to allow repository stakeholders to make their own decisions about which repository is best for them. Details of these previous efforts are summarised in the [case statement](https://www.rd-alliance.org/group/data-repository-attributes-wg/case-statement/data-repository-attributes-wg-case-statement) of one existing cross-domain, worldwide effort under the auspices of the RDA: the [RDA Data repository attributes Working Group](https://www.rd-alliance.org/groups/data-repository-attributes-wg). Therefore, how FAIR is implemented in a repository, and how each FAIR principle aligns with a particular data attribute, can be discovered from these efforts.
