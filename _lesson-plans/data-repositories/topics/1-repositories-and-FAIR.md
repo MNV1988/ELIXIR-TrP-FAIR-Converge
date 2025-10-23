@@ -21,7 +21,7 @@ audience:
   - Data Stewards
 
 learning_outcomes:
-  1:Explain the function of metadata within a digital repository by accurately stating its role in enabling search, retrieval, and preservation of digital assets.
+  1:Explain the function of metadata within a digital repository by accurately stating its role in enabling search, retrieval, and preservation of digital assets
     outcome: digital repositories as support for metadata
     verb: understand
     level: beginner 
