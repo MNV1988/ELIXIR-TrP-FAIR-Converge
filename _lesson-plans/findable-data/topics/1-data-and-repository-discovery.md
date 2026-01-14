@@ -4,42 +4,47 @@ title: Data/Repository discovery
 status: ready_for_review
 layout: lesson-plan
 authors:
-  - "0000-0001-6675-4639"
-  - "0000-0002-8611-162X"
-  
+  - 0000-0001-6675-4639
+  - 0000-0002-8611-162X
 reviewers:
-  - "0000-0002-3412-9086"
-
+  - 0000-0002-3412-9086
 fair_elements:
   - F
   - A
   - I
   - R
-
 audience:
   - Data Manager
   - Repository Manager
   - Researcher
   - Data Stewards
-
 learning_outcomes:
-  1:
-    outcome: Explain why data discovery is important and how researchers **Find** and **Reuse** data that they do not create themselves
-  2:
-    outcome: "Recognize new ways to discover data (i.e: visualisation, semantic, annotation, ….etc): Importance of metadata and semantic annotations for data findability, importance of reusability for data annotation, importance of data crosslink"
-  3:
-    outcome: Develop a strategy to search for data and link it with the research data lifecycle.
-  4:
+  '1':
+    outcome: >-
+      Explain why data discovery is important and how researchers **Find** and
+      **Reuse** data that they do not create themselves
+  '2':
+    outcome: >-
+      Recognize new ways to discover data (i.e: visualisation, semantic,
+      annotation, ….etc): Importance of metadata and semantic annotations for
+      data findability, importance of reusability for data annotation,
+      importance of data crosslink
+  '3':
+    outcome: >-
+      Develop a strategy to search for data and link it with the research data
+      lifecycle.
+  '4':
     outcome: Extract datasets and build their own work on them.
-  5:
-    outcome: Search for data in different resources and identify the differences among them
-  6:
+  '5':
+    outcome: >-
+      Search for data in different resources and identify the differences among
+      them
+  '6':
     outcome: Recognize the purpose for data citation and the relation with the FAIR
-  7:
+  '7':
     outcome: Recognize the purpose for data licence and the relation with FAIR
-  8:
+  '8':
     outcome: How to cite and licence your data
-
 terms4FAIRskills:
   - subject:
       - uri: 'http://purl.obolibrary.org/obo/T4FS_0000178'
@@ -93,33 +98,33 @@ terms4FAIRskills:
     object:
       - uri: 'http://purl.obolibrary.org/obo/T4FS_0000447'
         label: the FAIR Principles
-
 additionalResources:
-  - title: "The FAIR Guiding Principles for scientific data management and stewardship"
-    url: https://www.nature.com/articles/sdata201618
-  - title: "FAIR data"
+  - title: The FAIR Guiding Principles for scientific data management and stewardship
+    url: 'https://www.nature.com/articles/sdata201618'
+  - title: FAIR data
     author: Swedish University of Agricultural Sciences
-    url: https://www.slu.se/en/subweb/library/publish-and-analyse/archiving-and-publishing-research-data/fair-data/
-  - title: "Lost or Found? Discovering Data Needed for Research"
-    author: "Kathleen Gregory, Paul Groth, Andrea Scharnhorst, Sally Wyatt"
-    url: https://doi.org/10.1162/99608f92.e38165eb
-  - title: "GOFAIR Discovery Implementation Network"
-    url: https://phaidra.univie.ac.at/download/o:1201054
-  - title: "What is Data Mining"
+    url: >-
+      https://www.slu.se/en/subweb/library/publish-and-analyse/archiving-and-publishing-research-data/fair-data/
+  - title: Lost or Found? Discovering Data Needed for Research
+    author: 'Kathleen Gregory, Paul Groth, Andrea Scharnhorst, Sally Wyatt'
+    url: 'https://doi.org/10.1162/99608f92.e38165eb'
+  - title: GOFAIR Discovery Implementation Network
+    url: 'https://phaidra.univie.ac.at/download/o:1201054'
+  - title: What is Data Mining
     author: techtarget.com
-    url: https://www.techtarget.com/searchbusinessanalytics/definition/data-mining
-  - title: "Discover - Data Management Expert Guide"
+    url: 'https://www.techtarget.com/searchbusinessanalytics/definition/data-mining'
+  - title: Discover - Data Management Expert Guide
     author: CESSDA ERIC
-    url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover
-  - title: "Citing your data - Data Management Expert Guide"
+    url: 'https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover'
+  - title: Citing your data - Data Management Expert Guide
     author: CESSDA ERIC
-    url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Citing-your-data
-  - title: "Data reuse and the open data citation advantage"
-    author: "Heather A. Piwowar​, Todd J. Vision"
-    url: https://doi.org/10.7717/peerj.175
-
---- 
-
+    url: >-
+      https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Citing-your-data
+  - title: Data reuse and the open data citation advantage
+    author: 'Heather A. Piwowar​, Todd J. Vision'
+    url: 'https://doi.org/10.7717/peerj.175'
+description: "A repository (often shortened to \"repo\") is essentially a dedicated folder or directory where all the files, folders, and history related to a specific project are stored.\n\nIt is the heart of a version control system like Git, serving two main functions:\n\nStorage: It holds the latest, working copy of the project code.\n\nHistory: It records every single change made to those files over time, acting like a time machine for your project. This allows teams to rewind to any previous state, see who changed what, and collaborate safely.\n\n* Interfaces for external services like\_[OAI-PMH](https://www.openarchives.org/pmh/)\_allow harvesting of metadata for stored records\\*\\* \\*\\*\n* **Background:**\n  * A number of previous projects and working groups have been discussing what a common set of attributes should be to enable FAIR data, and to allow repository stakeholders to make their own decisions about which repository is best for them. Details of these previous efforts are summarised in the\_[case statement](https://www.rd-alliance.org/group/data-repository-attributes-wg/case-statement/data-repository-attributes-wg-case-statement)\_of one existing cross-domain, worldwide effort under the auspices of the RDA: the\_[RDA Data repository attributes Working Group](https://www.rd-alliance.org/groups/data-repository-attributes-wg). Therefore, how FAIR is implemented in a repository, and how each FAIR principle aligns with a particular data attribute, can be discovered from these efforts."
+---
 ## Topic, definition and scope
 
 * “Everyone has the right to share in scientific advancement and its benefits” \
